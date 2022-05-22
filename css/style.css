@@ -429,7 +429,7 @@ body {
 }
 
 .openning {
-  height: 100vh;
+/*   height: 100vh; */
 }
 
 .openning::after,
@@ -479,6 +479,7 @@ body {
 }
 
 .openning__container {
+  height: 100vh;
   padding-top: 5rem;
   display: -webkit-box;
   display: -ms-flexbox;
